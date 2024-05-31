@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>matheus.cavalari</groupId>
-	<artifactId>identificacao-cliente</artifactId>
+	<artifactId>cliente-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>api</name>
 	<description>API rest case itau</description>
